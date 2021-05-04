@@ -2,7 +2,7 @@
 - 👀 I’m interested in self-development, Front-End and learning in general!
 - 🌱 I’m currently learning D3 and SVGs
 - 💞️ I’m looking to collaborate on any project involving front-end
-- 📫 How to reach me anglam08@gmail.com!
+- 📫 How to reach me anglam08@gmail.com or angel.lam@utp.ac.pa!
 
 <!---
 Azn4n6el/Azn4n6el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
